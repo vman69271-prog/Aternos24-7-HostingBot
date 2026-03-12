@@ -7,8 +7,8 @@
   },
   "server": {
     "ip": "vmansLifeSteal.aternos.me",
-    "port":  56671,
-    "version": "",
+    "port": 56671,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
