@@ -3,12 +3,12 @@
   "bot-account": {
     "username": "mr4eren",
     "password": "",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
     "ip": "vmansLifeSteal.aternos.me",
     "port": 56671,
-    "version": "1.21.11",
+    "version": "",
     "try-creative": false
   },
   "position": {
